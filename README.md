@@ -1,5 +1,4 @@
 ## This project's main goal is to analyze mental health from Kaggle dataset and create a machine learning model to predict depression states. 
-## Performs exploratory data analysis on a mental health dataset, including:
 ```
   -Statistical analysis
   -Missing data analysis
