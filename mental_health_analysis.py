@@ -1,12 +1,11 @@
 # Dataset imported from https://www.kaggle.com/datasets/hamjashaikh/mental-health-detection-dataset
 # Import required libraries
 import pandas as pd
-import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import  accuracy_score
 import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 # Read the dataset
 df = pd.read_csv('mental_health_detection_dataset.csv')
